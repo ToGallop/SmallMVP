@@ -1,0 +1,2 @@
+include ':app', ':lib_mvp', ':lib_base', ':lib_net'
+rootProject.name='SmallMVP'
